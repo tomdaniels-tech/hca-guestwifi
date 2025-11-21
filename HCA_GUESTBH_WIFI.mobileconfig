@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>AutoJoin</key>
+        <true/>
+        <key>EncryptionType</key>
+        <string>WPA</string>
+        <key>Password</key>
+        <string>hcaguestwifi</string>
+        <key>PayloadDescription</key>
+        <string>Configures Wi-Fi access.</string>
+        <key>PayloadDisplayName</key>
+        <string>HCA_GUESTBH Wi-Fi</string>
+        <key>PayloadIdentifier</key>
+        <string>com.hca.wifi.HCA_GUESTBH</string>
+        <key>PayloadType</key>
+        <string>com.apple.wifi.managed</string>
+        <key>PayloadUUID</key>
+        <string>81E2F986-9353-4A70-8612-E1A4DF5FA1C5</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>SSID_STR</key>
+        <string>HCA_GUESTBH</string>
+      </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>HCA Guest Wi-Fi</string>
+    <key>PayloadIdentifier</key>
+    <string>com.hca.profile.guestwifi</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>5B0D7484-4D50-4CEE-97C7-3AB9DA34C58D</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
